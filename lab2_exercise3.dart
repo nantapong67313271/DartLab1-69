@@ -18,4 +18,9 @@ void main(){
  StudentScores['Computer Network'] = 82;
  print('Updated scores: $StudentScores');
 
+
+print('-----');
+print('-----');
+
+
 }
